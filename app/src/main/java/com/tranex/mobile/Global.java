@@ -32,7 +32,7 @@ public class Global {
     //public static String globalURLLocal = "http://52.59.230.245/mobileadmin/service.asmx/";
     //public static String globalURLLocal = "http://10.10.13.72/mobileadmin/service.asmx/";//http://172.16.1.9:8090/
     //public static String globalURLLocal = "http://172.16.1.9:8090/service.asmx/";
-    public static String globalURLLoca;
+    public static String globalURLLocal ="http://10.10.10.9:8090/service.asmx/";
     //public static String globalURLLocal = "http://35.157.66.43/mobileadmin/service.asmx/";
     //public static String globalURLLocal = "http://192.100.64.10:1264/service.asmx/";
     // public static String globalURL = "https://www.redstarplc.com:8444/mobileservice/service.asmx/";
